@@ -1,0 +1,31 @@
+// first error event loop
+
+// fs module
+// readFile readFileSync
+
+// write file 
+
+//  exist accsss
+
+// watch
+
+// cmod
+
+// clode open
+
+//  what is stream chunk ?
+
+// path module
+// join  __dirname
+
+// resolve
+
+// normilize
+
+// format parse extname
+
+// readline module
+
+// createInterface
+
+
