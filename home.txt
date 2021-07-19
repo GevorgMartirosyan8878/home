@@ -29,3 +29,33 @@
 // createInterface
 
 
+
+// Lesson 4 
+
+// Child processes
+
+// exec with shell
+// execFile without shell
+
+// spawn
+// fork, part of s
+
+//options.stdio after stream
+
+
+
+// Clusters
+
+
+// algorithms
+
+// round robin
+
+// concepts
+
+// concurrency
+// parallelism
+
+// cluster module
+
+//
