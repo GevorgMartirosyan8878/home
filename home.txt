@@ -58,4 +58,16 @@
 
 // cluster module
 
-//
+
+
+// Lesson 5
+
+// npm init
+// npm install typescript
+// create tsconfig.file
+
+
+// source map
+
+// createInterface
+// implements // class X implements Car
