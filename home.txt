@@ -71,3 +71,26 @@
 
 // createInterface
 // implements // class X implements Car
+
+// Lesson 6
+
+// streams and buffers
+
+// all streams extends eventemmiter
+
+//writable readable deplex and transform
+
+// in node js buuffer is type
+
+// stream.pause(), stream.resume()
+
+// stream.pipe(output)
+
+// on emit
+
+close - always works, 
+end - readable .. henc karda prcni
+finish - writable, henc grec verjacrec
+
+// check close event in error node v 16
+
