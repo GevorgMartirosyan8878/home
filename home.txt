@@ -94,3 +94,16 @@ finish - writable, henc grec verjacrec
 
 // check close event in error node v 16
 
+// lesson-7 
+
+runtype
+
+
+// put overwirite in url endpoint
+
+// path append
+http>tcp> layers
+
+// express fraemwork for node js 
+
+// npm i express
