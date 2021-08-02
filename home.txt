@@ -107,3 +107,9 @@ http>tcp> layers
 // express fraemwork for node js 
 
 // npm i express
+
+// lesson 8
+
+docer types (5)
+
+// docker run -p 3000:3000 dir 
