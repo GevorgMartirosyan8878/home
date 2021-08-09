@@ -113,3 +113,34 @@ http>tcp> layers
 docer types (5)
 
 // docker run -p 3000:3000 dir 
+
+
+// lesson 9
+
+typescript
+
+// ENUM
+
+enum Gender {
+    MALE='male',
+    FEMALE='femalse'
+}
+
+enum Color {
+    RED="red",
+    BLACK="black"
+}
+
+interface ? - 
+interface readonly
+
+type vs interface
+
+// namespace, external, internal modules
+// generic examples
+webpack config js file
+
+// homework 10
+
+
+
